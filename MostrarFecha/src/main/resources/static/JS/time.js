@@ -1,0 +1,1 @@
+alert("Esta es la pantilla de hora actual");
